@@ -1,1 +1,1 @@
-Link: simone-05.github.io/cv/
+Link: [View it](simone-05.github.io/cv/)
